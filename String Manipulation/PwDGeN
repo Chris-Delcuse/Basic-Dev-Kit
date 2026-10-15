@@ -2,10 +2,10 @@ pwdgen(pwtp,pwdg)
 prgm
 
 © Input ("STR",DEC)
-© "Num" 4 to 32
+© "Num" 4 to 64
 © "Digicode" 5 or 6
-© "Alpha–Num" 4 to 32
-© "Sp–aNum" 4 to 32
+© "Alpha–Num" 8 to 16
+© "Sp–aNum" 8 to 16
 
 © Output : "PwD"
 
