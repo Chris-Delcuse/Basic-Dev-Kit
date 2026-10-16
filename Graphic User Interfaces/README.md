@@ -22,7 +22,7 @@ THEMATIC FOLDER
     Your_Code
     EndPrgm
 
-🔓 PwDGuI
+🔓 PwdGUI
 ----------
 - A simple GUI for PwDGeN
 - ( PwDGeN required )
