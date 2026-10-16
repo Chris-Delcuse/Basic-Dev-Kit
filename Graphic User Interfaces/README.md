@@ -63,6 +63,6 @@ For a Pwd Saving project
     CopyVar main\PwdGeN, NewPrjt\PwdGeN
 &
 
-    CopyVar main\PwdGUI, NewPrjct\PwdGUI
+    CopyVar main\PwdGUI, NewPrjt\PwdGUI
 
 </details>
