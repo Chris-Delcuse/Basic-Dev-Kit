@@ -38,6 +38,8 @@ or
 
     Newfold Newprjct
     
+    
     CopyVar main\PwDGuI, NewProjct\PwDGuI
+    
     
     CopyVar main\PwDGeN, NewPrjct\PwDGeN
