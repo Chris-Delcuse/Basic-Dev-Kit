@@ -31,15 +31,3 @@ THEMATIC FOLDER
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic_DevKit/refs/heads/main/Graphic%20User%20Interfaces/PwDGuI_Prev.gif)
 
 Run directly from the `\maîn` with PwDGeN
-
-or
-
-⌨️ cmd: for a new project ( ie: pwd saving )
-
-    Newfold Newprjct
-&
-
-    CopyVar main\PwDGuI, NewProjct\PwDGuI
-&
-
-    CopyVar main\PwDGeN, NewPrjct\PwDGeN
