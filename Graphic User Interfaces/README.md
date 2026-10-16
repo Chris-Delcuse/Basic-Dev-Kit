@@ -9,8 +9,9 @@ THEMATIC FOLDER
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic_DevKit/refs/heads/main/Graphic%20User%20Interfaces/Loadscreen_prev.png)
 
 ⌨️ Usage Option 1 : inside your calculation loop ( For, While, Loop, Goto... ) WITH VARIABLE
-
-⌨️ Usage Option 2 : called step by step WITH DECIMAL
+<details>
+    
+<summary>⌨️ Usage Option 2 : called step by step WITH DECIMAL</summary>
 
     Prgm
     Your_Code
@@ -21,6 +22,8 @@ THEMATIC FOLDER
     loadscrn("Test","Processing...",100)
     Your_Code
     EndPrgm
+    
+</details>
 
 🔓 PwdGUI
 ----------
