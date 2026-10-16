@@ -40,7 +40,7 @@ THEMATIC FOLDER
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic_DevKit/refs/heads/main/Graphic%20User%20Interfaces/PwDGuI_Prev.gif)
 <Details>
 <summary>
-Run directly from the `\maîn` with PwDGeN
+Run directly from the \maîn with PwDGeN
 </summary>
 
 ⌨️ cmd: From your homescreen
