@@ -38,5 +38,31 @@ THEMATIC FOLDER
 - (Password format compliant with current standards)
 
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic_DevKit/refs/heads/main/Graphic%20User%20Interfaces/PwDGuI_Prev.gif)
-
+<Details>
+<summary>
 Run directly from the `\maîn` with PwDGeN
+</summary>
+
+⌨️ cmd: From your homescreen
+
+    PwdGUI()
+</Details>
+
+or
+
+<details>
+
+<summary>
+For a Pwd Saving project
+</summary>
+⌨️ cmd: From your homescreen
+
+    NewFold Newprjt
+&
+
+    CopyVar main\PwdGeN, NewPrjt\PwdGeN
+&
+
+    CopyVar main\PwdGUI, NewPrjct\PwdGUI
+
+</details>
