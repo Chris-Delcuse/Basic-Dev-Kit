@@ -34,8 +34,10 @@ Run directly from the `\maîn` with PwDGeN
 
 or
 
-⌨️ cmd: for a  new project
+⌨️ cmd: for a new project ( pwd saving )
 
     Newfold Newprjct
     
     CopyVar main\PwDGuI, NewProjct\PwDGuI
+    
+    CoyBar main\PwDGeN, NewPrjct\PwDGeN
