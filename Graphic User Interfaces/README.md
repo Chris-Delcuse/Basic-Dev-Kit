@@ -34,7 +34,7 @@ Run directly from the `\maîn` with PwDGeN
 
 or
 
-⌨️ cmd: for a new project ( pwd saving )
+⌨️ cmd: for a new project ( ie: pwd saving )
 
     Newfold Newprjct
     
