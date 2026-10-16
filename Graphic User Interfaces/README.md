@@ -35,7 +35,7 @@ THEMATIC FOLDER
 ----------
 - A simple GUI for PwDGeN
 - ( PwDGeN required )
-- (Password format compliant with current standards)
+- ( Password format compliant with current standards )
 
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic_DevKit/refs/heads/main/Graphic%20User%20Interfaces/PwDGuI_Prev.gif)
 
