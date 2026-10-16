@@ -40,4 +40,4 @@ or
     
     CopyVar main\PwDGuI, NewProjct\PwDGuI
     
-    CoyBar main\PwDGeN, NewPrjct\PwDGeN
+    CopyVar main\PwDGeN, NewPrjct\PwDGeN
