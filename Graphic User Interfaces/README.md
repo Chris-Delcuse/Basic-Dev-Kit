@@ -21,3 +21,9 @@ THEMATIC FOLDER
     loadscrn("Test","Processing...",100)
     Your_Code
     EndPrgm
+
+🔓 PwDGuI
+----------
+- A simple GUI for PwDGeN
+- ( PwDGeN required )
+
