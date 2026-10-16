@@ -39,4 +39,4 @@ THEMATIC FOLDER
 
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic_DevKit/refs/heads/main/Graphic%20User%20Interfaces/PwDGuI_Prev.gif)
 
-Run directly from the \maîn with PwDGeN.
+Run directly from the `\maîn` with PwDGeN.
