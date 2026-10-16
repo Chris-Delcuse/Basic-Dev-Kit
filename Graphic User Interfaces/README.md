@@ -7,10 +7,16 @@ THEMATIC FOLDER
 - ( Compatible 89, Titanium, 92, 92+ & V200 )
 
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic_DevKit/refs/heads/main/Graphic%20User%20Interfaces/Loadscreen_prev.png)
-
-⌨️ Usage Option 1 : inside your calculation loop ( For, While, Loop, Goto... ) WITH VARIABLE
 <details>
-    
+
+<summary>⌨️ Usage Option 1 : inside your calculation loop ( For, While, Loop, Goto... ) WITH VARIABLE</summary>
+
+    For a,1,100,1
+     loadscrn("Test","Processing...",a)
+    EndFor
+</details>
+
+<details>    
 <summary>⌨️ Usage Option 2 : called step by step WITH DECIMAL</summary>
 
     Prgm
