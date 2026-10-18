@@ -2,23 +2,29 @@ THEMATIC FOLDER
 
 ⛓️ InStrng2
 ------------
-- Algorithm
+- Algorithm (Non-Mathematical)
 - Read a string content.
-
+<details>
+<summary>
 📝 Input Proposition :
+</summary>
 
     InStrng2("Advanced Mathematics Software")
-
+</details>
+<details>
+<summary>
 📝 Output Usage Example : ( lgt & chlst )
+</summary>
 
     For a,1,lgt,1
      PxlFont(chlst[a],1,25+b)
      b+1+lpxl→b
     EndFor
+</details>
 
 🖼 Preview with PxlFont ** :
 
-![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/TI-Basic_OS-v3.10/refs/heads/main/String%20Processing/PxlFont_Prev.png)
+![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/TI-Basic_OS-v3.10/refs/heads/main/String%20Processing/PxlFont_Prev.png
 
 ⛓️ IsString
 ------------
