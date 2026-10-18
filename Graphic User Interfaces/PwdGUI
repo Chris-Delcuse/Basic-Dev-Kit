@@ -29,6 +29,7 @@ ElseIf tp=2 Then
 {"  5 Digs","  6 Digs"}→lst
 Else
 {"  8 Digs"," 10 Digs"," 12 Digs"," 14 Digs"," 16 Digs"}→lst
+EndIf
 
 © Box2
 Dialog
