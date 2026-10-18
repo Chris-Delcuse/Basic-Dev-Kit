@@ -22,7 +22,7 @@ Text ""
 EndDlog
 If ok=0:Goto quit
 
-© Box2 Condition
+© Box 2 Condition
 If tp=1 Then
 {"  4 Digs","  6 Digs","  8 Digs"," 16 Digs"," 32 Digs"}→lst
 ElseIf tp=2 Then
