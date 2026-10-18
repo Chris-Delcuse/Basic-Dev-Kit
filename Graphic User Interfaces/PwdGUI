@@ -29,4 +29,26 @@ ElseIf tp=2 Then
 {"  5 Digs","  6 Digs"}→lst
 Else
 {"  8 Digs"," 10 Digs"," 12 Digs"," 14 Digs"," 16 Digs"}→lst
+
+© Box2
+Dialog
+Title "🔓 PwDGeN 🔓"
+Text ""
+Text "Choose Digits :"
+DropDown "Digs :",lst,dg
+Text ""
+EndDlog
+If ok=0:goto start
+
+© keygen codition
+0→digs
+expr(lst[dg])→dgt
+
+© key generation
+pwdgen(typ[tp],dgt)
+
+© Display new key
+Text pwd
+
+Lbl quit
 EndPrgm
