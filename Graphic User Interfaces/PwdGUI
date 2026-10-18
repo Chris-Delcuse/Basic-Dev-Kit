@@ -31,7 +31,7 @@ Else
 {"  8 Digs"," 10 Digs"," 12 Digs"," 14 Digs"," 16 Digs"}→lst
 EndIf
 
-© Box2
+© Box 2
 Dialog
 Title "🔓 PwDGeN 🔓"
 Text ""
@@ -41,7 +41,7 @@ Text ""
 EndDlog
 If ok=0:Goto start
 
-© keygen codition
+© keygen condition
 0→digs
 expr(lst[dg])→dgt
 
