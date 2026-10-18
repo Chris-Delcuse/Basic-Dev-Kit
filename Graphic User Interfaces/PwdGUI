@@ -20,7 +20,7 @@ Text "Choose a Password type :"
 DropDown "PwD Type :",typ,tp
 Text ""
 EndDlog
-If ok=0:goto quit
+If ok=0:Goto quit
 
 © Box2 Condition
 If tp=1 Then
@@ -38,7 +38,7 @@ Text "Choose Digits :"
 DropDown "Digs :",lst,dg
 Text ""
 EndDlog
-If ok=0:goto start
+If ok=0:Goto start
 
 © keygen codition
 0→digs
