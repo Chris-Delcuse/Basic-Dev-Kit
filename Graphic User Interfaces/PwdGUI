@@ -1,4 +1,32 @@
 PwdGUI()
 Prgm
 
+© Cleaning Sys Err
+ClrErr
+
+© Init Vars
+Local tp,dg,lst,dgl,typ
+Local dgt, digs
+0→digs:0→tp:0→dg:{}→lst
+{"Num","Digicode","Alpha-Num","Sp-aNum"}→typ
+
+© Display Box & Menu
+© Box 1
+Lbl start
+Dialog
+Title "🔓 PwDGeN 🔓"
+Text ""
+Text "Choose a Password type :"
+DropDown "PwD Type :",typ,tp
+Text ""
+EndDlog
+If ok=0:goto quit
+
+© Box2 Condition
+If tp=1 Then
+{"  4 Digs","  6 Digs","  8 Digs"," 16 Digs"," 32 Digs"}→lst
+ElseIf tp=2 Then
+{"  5 Digs","  6 Digs"}→lst
+Else
+{"  8 Digs"," 10 Digs"," 12 Digs"," 14 Digs"," 16 Digs"}→lst
 EndPrgm
