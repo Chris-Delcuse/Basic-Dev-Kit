@@ -64,7 +64,7 @@ To manage your multiple projects from the `\main`, use `CopyVar` at the beginnin
 
 🗄 Mode (All)
 -------------
-- setMode mergeable database
+- `setMode` mergeable database
 - ( Compatible 89, Titanium, 92, 92+ & V200 )
 
 🔐 PwDGeN ( No GUI )
