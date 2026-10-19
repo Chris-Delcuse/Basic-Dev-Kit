@@ -4,23 +4,17 @@ THEMATIC FOLDER
 ------------
 - Algorithm (Non-Mathematical)
 - Read a string content.
-<details>
-<summary>
+
 📝 Input Proposition :
-</summary>
 
     InStrng2("Advanced Mathematics Software")
-</details>
-<details>
-<summary>
+    
 📝 Output Usage Example : ( lgt & chlst )
-</summary>
 
     For a,1,lgt,1
      PxlFont(chlst[a],1,25+b)
      b+1+lpxl→b
     EndFor
-</details>
 
 🖼 Preview with PxlFont **
 
@@ -31,7 +25,7 @@ THEMATIC FOLDER
 - Check in RAM that the argument is a string.
 - (Originaly written for OS2)
 
-✒️  For persistant variables prefer 'getType()'
+✒️  For persistant vars prefer `getType()`
 
 -----
 
