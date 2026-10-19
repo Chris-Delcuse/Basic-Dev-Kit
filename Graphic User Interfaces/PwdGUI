@@ -42,7 +42,7 @@ EndDlog
 If ok=0:Goto start
 
 © keygen condition
-0→digs
+1→digs
 expr(lst[dg])→dgt
 
 © key generation
