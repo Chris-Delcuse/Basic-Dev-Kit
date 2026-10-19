@@ -2,6 +2,7 @@ Dft89Cfg()
 Prgm
 
 © Cleaning Sys Err
+© (0→errornum)
 ClrErr
 
 © Others Mode
