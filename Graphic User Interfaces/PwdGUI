@@ -8,7 +8,7 @@ ClrErr
 Local tp,dg,lst,dgl,typ
 Local dgt, digs
 0→digs:0→tp:0→dg:{}→lst
-{"Num","Digicode","Alpha-Num","Sp-aNum"}→typ
+{"Numeric","Digicode","Alpha-Num","Sp-αNum"}→typ
 
 © Display Box & Menu
 © Box 1
@@ -46,7 +46,7 @@ If ok=0:Goto start
 expr(lst[dg])→dgt
 
 © key generation
-pwdgen(typ[tp],dgt)
+pwdgen(tp,dgt)
 
 © Display new key
 Text pwd
