@@ -53,7 +53,7 @@ If pwtp=3 Then
 EndIf
 
 © Special α-Num
-If pwtp="Sp–aNum" Then
+If pwtp=4 Then
  rand(26)→n
  pwdtab[n]→pwd
  For i,1,pwdg–1,1
