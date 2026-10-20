@@ -1,11 +1,11 @@
 pwdgen(pwtp,pwdg)
 prgm
 
-© Input ("STR",DEC)
-© "Num" 4 to 64
-© "Digicode" 5 or 6
-© "Alpha–Num" 8 to 16
-© "Sp–aNum" 8 to 16
+© Input format (Dec,Dec)
+© 1 "Num" 4 to 32
+© 2 "Digicode" 5 or 6
+© 3 "Alpha–Num" 8 to 16
+© 4 "Sp–aNum" 8 to 16
 
 © Output : "PwD"
 
@@ -21,14 +21,16 @@ setMode("Exact/Approx","AUTO")→ea
 ""→pwd
 0→i
 
-If pwtp="Num" Then
+© Numeric
+If pwtp=1 Then
  For i,1,pwdg,1
   rand(10)-1→n
   pwd&string(n)→pwd
  EndFor
 EndIf
 
-If pwtp="Digicode" Then
+© Digicode
+If pwtp=2 Then
  For i,1,4,1
   rand(10)-1→n
   pwd&string(n)→pwd
@@ -42,13 +44,15 @@ If pwtp="Digicode" Then
   EndIf
 EndIf
 
-If pwtp="Alpha–Num" Then
+© Alpha-Num
+If pwtp=3 Then
  For i,1,pwdg,1
   rand(62)→n
   pwd&pwdtab[n]→pwd
  EndFor
 EndIf
 
+© Special α-Num
 If pwtp="Sp–aNum" Then
  rand(26)→n
  pwdtab[n]→pwd
@@ -60,5 +64,4 @@ EndIf
 
 setMode("Base",bs)
 setMode("Exact/Approx",ea)
-
 EndPrgm
