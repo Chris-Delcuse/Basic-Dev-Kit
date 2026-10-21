@@ -18,7 +18,8 @@ Made to inspire.
   Author: <span itemprop="name">Chris Delcuse</span>
   
   <time datetime="2026-26-02">Febuary 26, 2026</time>
-
+  
+  <link itemprop="jobTitle" content="Main Developper" />
   <link itemprop="sameAs" href="https://x.com.com/chris-delcuse" />
   <link itemprop="sameAs" href="https://linkedin.com/in/chris-delcuse" />
   <link itemprop="sameAs" href="https://youtube.com/@ChrisDelcuse" />
