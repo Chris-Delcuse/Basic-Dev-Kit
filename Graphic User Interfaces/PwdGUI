@@ -41,11 +41,11 @@ Text ""
 EndDlog
 If ok=0:Goto start
 
-© keygen condition
+© Remaining condition
 1→digits
 expr(lst[dg])→dgt
 
-© key generation
+© Key generation
 pwdgen(tp,dgt)
 
 © Display new key
