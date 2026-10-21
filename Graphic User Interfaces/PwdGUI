@@ -6,7 +6,7 @@ ClrErr
 
 © Init Vars
 Local tp,dg,lst,dgl,typ
-Local dgt, digits
+Local dgt,digits
 0→digits:0→tp:0→dg:{}→lst
 {" Numeric"," Digicode"," Alpha-Num"," Sp-αNum"}→typ
 
