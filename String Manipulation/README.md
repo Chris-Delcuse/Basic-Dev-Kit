@@ -25,6 +25,6 @@ THEMATIC FOLDER
 
 ⌨️ Cmd Example :
 
-    pwdgen("Alpha-Num",10)
+    pwdgen(1,10)
 
  ✒️ GUI is the best way to secure inputs on this device.
