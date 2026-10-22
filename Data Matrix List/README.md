@@ -32,7 +32,7 @@ To be placed in the `\main` folder to be merged according to your convenience.
 
     Augment(m1de;m2de)→m0d3    Merging ⚠️ Augment Syntax need ; 
 
-    Mat▸Data m0d3,m0de    ( m0de will need manual cleaning. )
+    Mat▸Data m0d3,m0de   ( m0de will need manual cleaning. )
 
 
 </details>
