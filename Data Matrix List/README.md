@@ -22,6 +22,13 @@ Note: Locations respected with 391 functions, commands placed under character st
 
 To be placed in the `\main` folder to be merged according to your convenience.
 
-⌨️ cmd :
+⌨️ Merging cmd : (Exemple)
 
-Data
+    Data▸Mat m1d,m1de
+
+    Data▸Mat m2d,m2de
+
+    Augement(m1de;m2de) m0d3
+(⚠️ Augment Syntax need ; )
+
+    Mat▸Data m0d3,m0de
