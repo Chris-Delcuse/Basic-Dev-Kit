@@ -30,7 +30,7 @@ To be placed in the `\main` folder to be merged according to your convenience.
 
     Data▸Mat m2d,m2de    ( convert & rename m2d )
 
-    Augement(m1de;m2de)→m0d3    ⚠️ Augment Syntax need ; 
+    Augment(m1de;m2de)→m0d3    ⚠️ Augment Syntax need ; 
 
     Mat▸Data m0d3,m0de    (m0de will need manual cleaning.)
 
