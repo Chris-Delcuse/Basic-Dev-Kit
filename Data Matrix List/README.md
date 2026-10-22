@@ -21,3 +21,7 @@ Note: Locations respected with 391 functions, commands placed under character st
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic_DevKit/refs/heads/main/Data%20Matrix%20List/setModeDB.gif)
 
 To be placed in the `\main` folder to be merged according to your convenience.
+
+⌨️ cmd :
+
+Data
