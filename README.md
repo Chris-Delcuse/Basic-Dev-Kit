@@ -19,10 +19,10 @@ Made to inspire.
 itemtype="https://schema.org/Person">
   Author: <span itemprop="name">Chris Delcuse</span>
   <meta itemprop="jobTitle" content="Main Developper" />
-  <link itemprop="sameAs" href="https://x.com.com/ChrisDelcuse" />
+  <link itemprop="sameAs" href="https://x.com.com/Chris_Delcuse" />
   <link itemprop="sameAs" href="https://linkedin.com/in/chris-delcuse" />
-  <link itemprop="sameAs" href="https://youtube.com/@ChrisDelcuse" />
-  <link itemprop="sameAs" href="https://instagram.com/ChrisDelcuse" />
+  <link itemprop="sameAs" href="https://youtube.com/@Chris-Delcuse" />
+  <link itemprop="sameAs" href="https://instagram.com/Chris_Delcuse" />
   
   <time datetime="2026-26-02">Febuary 26, 2026</time>
 </div>
