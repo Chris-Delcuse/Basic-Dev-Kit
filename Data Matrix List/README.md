@@ -22,7 +22,9 @@ Note: Locations respected with 391 functions, commands placed under character st
 
 To be placed in the `\main` folder to be merged according to your convenience.
 
-⌨️ Merging cmd : (Exemple)
+<details>
+<summary>⌨️ Merging cmd : (Exemple)
+</summary>
 
     Data▸Mat m1d,m1de    ( convert & rename m1d )
 
@@ -31,3 +33,6 @@ To be placed in the `\main` folder to be merged according to your convenience.
     Augement(m1de;m2de)→m0d3    ⚠️ Augment Syntax need ; 
 
     Mat▸Data m0d3,m0de
+
+
+</details>
