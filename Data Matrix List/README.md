@@ -26,11 +26,11 @@ To be placed in the `\main` folder to be merged according to your convenience.
 <summary>⌨️ Merging cmd : (Exemple)
 </summary>
 
-    Data▸Mat m1d,m1de    ( create new Mat m1de & convert m1d )
+    Data▸Mat m1d,m1de    ( convert m1d in a new Mat m1de )
 
-    Data▸Mat m2d,m2de    ( create new Mat m2de & convert m2d )
+    Data▸Mat m2d,m2de    ( convert m2d in a new Mat m2de )
 
-    Augment(m1de;m2de)→m0d3    ⚠️ Augment Syntax need ; 
+    Augment(m1de;m2de)→m0d3    Merging ⚠️ Augment Syntax need ; 
 
     Mat▸Data m0d3,m0de    ( m0de will need manual cleaning. )
 
