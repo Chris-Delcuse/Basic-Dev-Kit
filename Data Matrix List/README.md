@@ -24,11 +24,10 @@ To be placed in the `\main` folder to be merged according to your convenience.
 
 ⌨️ Merging cmd : (Exemple)
 
-    Data▸Mat m1d,m1de
+    Data▸Mat m1d,m1de    ( convert & rename m1d )
 
-    Data▸Mat m2d,m2de
+    Data▸Mat m2d,m2de    ( convert & rename m2d )
 
-    Augement(m1de;m2de) m0d3
-(⚠️ Augment Syntax need ; )
+    Augement(m1de;m2de)→m0d3    ⚠️ Augment Syntax need ; 
 
     Mat▸Data m0d3,m0de
