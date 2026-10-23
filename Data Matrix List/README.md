@@ -23,7 +23,7 @@ Note: Locations respected with 391 functions, commands placed under character st
 To be placed in the `\main` folder to be merged according to your convenience.
 
 <details>
-<summary>⌨️ Merging cmd : (Exemple)
+<summary>⌨️ Merging cmd : (Example)
 </summary>
 
     Data▸Mat m1d,m1de    ( convert m1d in a new Mat m1de )
@@ -34,5 +34,13 @@ To be placed in the `\main` folder to be merged according to your convenience.
 
     Mat▸Data m0d3,m0de   ( m0de will need manual cleaning. )
 
+
+</details>
+
+<details>
+<summary>⌨️ Usage cmd : (Sentence Example)
+</summary>
+
+    m0de[1][1]&string(m0de[1][2])&","&string(m0de[1][3])&m0de[1][4]
 
 </details>
