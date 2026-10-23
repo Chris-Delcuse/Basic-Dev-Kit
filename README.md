@@ -11,5 +11,6 @@ This repository is primarily intended for advanced users, who want fully utilize
 Made to inspire.
 
 ----
-  
+Chris Delcuse
+
   <time datetime="2026-26-02">Febuary 26, 2026</time>
