@@ -41,7 +41,7 @@ To be placed in the `\main` folder to be merged according to your convenience.
 <summary>⌨️ Usage cmd : (Sentence Example)
 </summary>
     
-    "setMode("Display Digits","FIX 0")"    (Sentence with your new var m0de)
+    "setMode("Display Digits","FIX 0")"    (Sentence to write with your new var m0de)
     
     (m0de[1][1])&string(m0de[2][1])&","&string(m0de[3][1])&(m0de[4][1])    (phrasing)
 
