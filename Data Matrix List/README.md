@@ -40,6 +40,8 @@ To be placed in the `\main` folder to be merged according to your convenience.
 <details>
 <summary>⌨️ Usage cmd : (Sentence Example)
 </summary>
+    
+setMode("Display Digits","FIX 0")
 
     m0de[1][1]&string(m0de[1][2])&","&string(m0de[1][3])&m0de[1][4]
 
