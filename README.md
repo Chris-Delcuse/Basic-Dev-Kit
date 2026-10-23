@@ -1,9 +1,3 @@
-<div itemscope itemtype="https://schema.org/Code">
-  <meta itemprop="programmingLanguage" content="TIBasic" />
-  <meta itemprop="codeRepository" content="https://github.com/Chris-Delcuse/Basic_DevKit" />
-  <meta itemprop="runtimePlatform" content="TI OS v3.10" /> 
-</div>
-
 ## ✨️ Basic Dev Kit ✨️
 
 To mark the release of various TI-89 emulators, i gather here the knowledge i have of this OS.
@@ -17,14 +11,5 @@ This repository is primarily intended for advanced users, who want fully utilize
 Made to inspire.
 
 ----
-<div itemprop="Author" itemscope 
-itemtype="https://schema.org/Person">
-  Author: <span itemprop="name">Chris Delcuse</span>
-  <meta itemprop="jobTitle" content="Main Developper" />
-  <link itemprop="mainEntityOfPage" href="https://x.com.com/Chris_Delcuse" />
-  <link itemprop="sameAs" href="https://linkedin.com/in/chris-delcuse" />
-  <link itemprop="sameAs" href="https://youtube.com/@Chris-Delcuse" />
-  <link itemprop="sameAs" href="https://instagram.com/Chris_Delcuse" />
   
   <time datetime="2026-26-02">Febuary 26, 2026</time>
-</div>
