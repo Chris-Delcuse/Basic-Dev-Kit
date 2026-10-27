@@ -1,7 +1,7 @@
 👨🏽‍🔧 Introduction :
 -----------------
 
-For these machines, it’s necessary to distinguish several categories.
+For these machines, it’s necessary to distinguish several categories in TI-Basic.
 
 User apps: (packaged apps)
 - transmitted via cable
