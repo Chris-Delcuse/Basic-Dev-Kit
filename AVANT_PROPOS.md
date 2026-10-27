@@ -13,7 +13,7 @@ Installer:
 - contain only prgm
 
 Your Projects:
-- look like the package
+- look like the package (that’s the Goal)
 
 This is what we’re going to cover through this repository.
 
