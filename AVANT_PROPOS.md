@@ -3,16 +3,16 @@
 
 For these machines, it’s necessary to distinguish several categories.
 
-User apps (packaged apps)
+User apps: (packaged apps)
 - transmitted via cable
 - contain multiple formats (PIC, TEXT, PRGM...)
 These are the famous PC formats .89x 92x & .V2x
 
-Installer
+Installer:
 - transmitted via cable
 - contain only prgm
 
-Your Projects
+Your Projects:
 - look like the package
 
 This is what we’re going to cover through this repository.
