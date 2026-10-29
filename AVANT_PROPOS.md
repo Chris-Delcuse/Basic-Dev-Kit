@@ -5,12 +5,12 @@ For these machines, it’s necessary to distinguish several categories in TI-Bas
 
 User apps: (packaged apps)
 - transmitted via cable
-- contain multiple formats (PIC, TEXT, PRGM...)
-These are the famous PC formats .89x 92x & .V2x
+- contain multiple formats (`PIC`, `TEXT`, `PRGM`...)
+These are the famous PC formats `.89x` `.92x` & `.V2x`
 
 Installer:
 - transmitted via cable
-- contain only prgm
+- contain only `PRGM`
 
 Your Projects:
 - look like a final package (that’s the Goal)
