@@ -1,4 +1,4 @@
-**THEMATIC FOLDER**
+**/THEMATIC FOLDER**
 
 
 There is no good or bad code, what is needed are functional and responsive apps.
