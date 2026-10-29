@@ -13,7 +13,7 @@ Installer:
 - contain only `PRGM`
 
 Your Projects:
-- look like a final package (that’s the Goal)
+- look like a final package. _that’s the Goal !_
 
 This is what we’re going to cover through this repository.
 
