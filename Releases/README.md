@@ -9,7 +9,7 @@ To the extreme opposite, an application compiled into a single file could appear
 
 For students, it is crucial to build common structures and therefore a development team that makes technical choices.
 
-The real deployment takes place during the school period; the publications on the platforms provide an idea of the work carried out.
+The real deployment takes place during the school period; publications on the platforms only provide an idea of the work carried out.
 
 
 
