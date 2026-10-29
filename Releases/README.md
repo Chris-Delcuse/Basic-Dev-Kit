@@ -7,7 +7,7 @@ Managing the var-link menu is just as important as the code, for example: for a 
 
 To the extreme opposite, an application compiled into a single file could appear to the user as a variable to clean up.
 
-For students, it is crucial to build common structures and therefore a development team.
+For students, it is crucial to build common structures and therefore a development team that makes technical choices.
 
 The real deployment takes place during the school period; the publications on the platforms provide an idea of the work carried out.
 
