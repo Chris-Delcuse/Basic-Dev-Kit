@@ -13,4 +13,4 @@ Made to inspire.
 ----
 Chris Delcuse
 
-  <time datetime="2026-26-02">Febuary 26, 2026</time>
+Febuary 26, 2026
