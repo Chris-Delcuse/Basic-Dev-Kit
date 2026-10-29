@@ -11,6 +11,7 @@ So for students, it is crucial to build common structures and therefore a develo
 
 The real deployment takes place during the school period; publications on the platforms only provide an idea of the work carried out.
 
-
+---
 Secretary of State for Industry
+
 attached to Education
