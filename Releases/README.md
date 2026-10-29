@@ -11,6 +11,8 @@ So for students, it is crucial to build common structures and therefore a develo
 
 School project or hobby, the real deployment takes place during the school period; publications on the platforms only provide an idea of the work carried out.
 
+I was born before the internet !
+
 No matter what telemetry says!
 
 Telemetry is meant to serve! Not to talk back!
