@@ -10,3 +10,5 @@ To the extreme opposite, without a `Program File` or `APPS` Folder, an applicati
 So for students, it is crucial to build common structures and therefore a development team that makes technical choices, while the field is favorable. ( family support, finance...)
 
 School project or hobby, the real deployment takes place during the school period; publications on the platforms only provide an idea of the work carried out.
+
+no matter what telemetry says!
