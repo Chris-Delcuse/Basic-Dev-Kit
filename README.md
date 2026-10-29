@@ -1,5 +1,7 @@
 ## ✨️ Basic Dev Kit ✨️
 
+Febuary 26, 2026
+
 To mark the release of various TI-89 emulators, i gather here the knowledge i have of this OS.
 
 Cstmkill() represents a new direction in TI-Basic development offering new opportunities.
@@ -11,6 +13,4 @@ This repository is primarily intended for advanced users, who want fully utilize
 Made to inspire.
 
 ----
-Chris Delcuse
-
-Febuary 26, 2026
+Chris Delcuse,
