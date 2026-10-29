@@ -7,6 +7,6 @@ Managing the `var-link` menu is just as important as the code, for example: for 
 
 To the extreme opposite, an application optimized into a single file could appear to the user as a variable to clean up without a `Program File` or `APPS` Folder.
 
-So for students, it is crucial to build common structures and therefore a development team that makes technical choices, while the field is favorable.
+So for students, it is crucial to build common structures and therefore a development team that makes technical choices, while the field is favorable. ( family support, financing...)
 
 The real deployment takes place during the school period; publications on the platforms only provide an idea of the work carried out.
