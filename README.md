@@ -13,4 +13,4 @@ This repository is primarily intended for advanced users, who want fully utilize
 Made to inspire.
 
 ----
-Chris Delcuse,
+Chris Delcuse
