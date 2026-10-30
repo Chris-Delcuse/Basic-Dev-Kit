@@ -11,4 +11,4 @@ To the extreme opposite, without a `APPS` Folder & a subtancial logitech, an app
 
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic_DevKit/refs/heads/main/Releases/var-link2.png)
 
-So for students, it is crucial to build common structures and therefore a development team that makes technical choices.
+it is crucial to build common structures and therefore makes technical choices.
