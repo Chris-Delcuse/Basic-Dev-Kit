@@ -11,4 +11,4 @@ To the extreme opposite, without a `APPS` Folder & a subtancial logitech, an app
 
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic_DevKit/refs/heads/main/Releases/var-link2.png)
 
-it is crucial to build common structures and therefore makes technical choices.
+So it's crucial to offer common structures but make technical choices on an individual basis.
