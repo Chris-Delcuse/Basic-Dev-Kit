@@ -10,3 +10,5 @@ To the extreme opposite, without a `APPS` Folder & a subtancial logitech, an app
 So for students, it is crucial to build common structures and therefore a development team that makes technical choices, while the environment is favorable. ( family support, finance...)
 
 School project or hobby, the real deployment takes place during the school period; publications on the platforms only provide an idea of the work carried out.
+
+You can only make team dev choices, not maanufacturer choices.
