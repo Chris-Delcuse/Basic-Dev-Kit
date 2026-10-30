@@ -20,3 +20,5 @@ In the end, the choices made by your dev team and programming are just a proposa
 What would a collective be without individuality, personality, inspiration from daily life (studies, girlfriend, family...)
 
 What would rock be without a guitar solo?
+
+What would a developer manager do with developers who aren't independent?
