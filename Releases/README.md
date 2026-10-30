@@ -11,4 +11,4 @@ So for students, it is crucial to build common structures and therefore a develo
 
 School project or hobby, the real deployment takes place during the school period; publications on the platforms only provide an idea of the work carried out.
 
-In the end, the choices made by your dev team and programming are just a proposal for the manufacturer.
+In the end, the choices made by your dev team and programming are just a proposal for the manufacturer.so an individual proposal isn’t any less professional, it just promotes autonomy and will be more relevant within a dev team.
