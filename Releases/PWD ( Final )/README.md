@@ -1,3 +1,0 @@
-in progress
-
-structuring proposal
