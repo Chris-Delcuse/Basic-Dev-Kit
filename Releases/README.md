@@ -14,4 +14,4 @@ The most important thing is to make technical choices and provide a viable propo
 🔐 PWD
 -------
 - Type: UserApp
-- Content (PwdGUI, PwdGeN, PwDdb, License)
+- Content: PwdGUI, PwdGeN, PwDdb, License
