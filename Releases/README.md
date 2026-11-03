@@ -15,4 +15,4 @@ The most important thing is to make technical choices and provide a viable propo
 -------
 - Type: UserApp
 - Description: FullApp with GUI & Pwd Saving
-- Content: PwdGUI, PwdGeN, License.
+- Content: PwdGUI, PwdGeN, About.
