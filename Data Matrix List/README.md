@@ -1,4 +1,4 @@
-THEMATIC FOLDER
+**THEMATIC FOLDER**
 
 For Nspire owners interested in the method,
 
