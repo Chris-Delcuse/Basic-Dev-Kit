@@ -56,7 +56,7 @@ EndDlog
 If ok=0:Goto start
 
 If sv=1 Then
-  If pwddb=pwddb Then
+  If isVar(pwddb)=false Then
     newMat(1,3)→pwddb
     "Name"→pwddb[1,1]
     "ID"→pwddb[1,2]
