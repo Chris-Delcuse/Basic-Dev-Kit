@@ -71,11 +71,11 @@ pwddb[1,2]→idt
 
 Dialog
 Title "🔓 PwDGeN 🔓"
-Request " Password Name",nm,1
+Request "▸ Password Name",nm,1
 Text ""
-Request " Attached ID",idt
+Request "▸ Attached ID",idt
 Text ""
-Request " Customization",pwd
+Request "▸ Customization",pwd
 EndDlog
 If ok=0:Goto dis
 
