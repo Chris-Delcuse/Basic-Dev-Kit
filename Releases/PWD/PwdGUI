@@ -49,9 +49,9 @@ Dialog
 Title "🔓 PwDGeN 🔓"
 Text "New Password :"
 Text ""
+Text pwd
+Text ""
 DropDown "Save :",lst,sv
-Text ""
-Text ""
 EndDlog
 If ok=0:Goto start
 
