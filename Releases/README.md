@@ -1,9 +1,7 @@
 **THEMATIC FOLDER**
 
+Build with Dev Kit.
 
-Build with Dev Kit
-
-----
 
 🔐 PWD
 -------
