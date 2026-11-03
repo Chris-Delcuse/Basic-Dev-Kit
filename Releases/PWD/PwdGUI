@@ -8,8 +8,11 @@ setFold(pwd)
 
 © Init Vars
 Local tp,dg,lst,dgl,typ
-Local dgt,digits
+Local dgt,digits, sv, nm
+Local idt, rwa
+
 0→digits:0→tp:0→dg:{}→lst
+0→sv:""→nm:""→idt:[]→rwa
 {" Numeric"," Digicode"," Alpha-Num"," Sp-αNum"}→typ
 
 © Display Box & Menu
