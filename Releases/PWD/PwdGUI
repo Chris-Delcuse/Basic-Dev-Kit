@@ -1,0 +1,57 @@
+PwdGUI()
+Prgm
+
+© Cleaning Sys Err
+ClrErr
+
+setFold(pwd)
+
+© Init Vars
+Local tp,dg,lst,dgl,typ
+Local dgt,digits
+0→digits:0→tp:0→dg:{}→lst
+{" Numeric"," Digicode"," Alpha-Num"," Sp-αNum"}→typ
+
+© Display Box & Menu
+© Box 1
+Lbl start
+Dialog
+Title "🔓 PwDGeN 🔓"
+Text ""
+Text "Choose a Password type :"
+DropDown "PwD Type :",typ,tp
+Text ""
+EndDlog
+If ok=0:Goto quit
+
+© Box 2 Condition
+If tp=1 Then
+{"  4 Digits","  6 Digits","  8 Digits"," 16 Digits"," 32 Digs"}→lst
+ElseIf tp=2 Then
+{"  5 Digits","  6 Digits"}→lst
+Else
+{"  8 Digits"," 10 Digits"," 12 Digits"," 14 Digits"," 16 Digits"}→lst
+EndIf
+
+© Box 2
+Dialog
+Title "🔓 PwDGeN 🔓"
+Text ""
+Text "Choose Digits :"
+DropDown "Digits :",lst,dg
+Text ""
+EndDlog
+If ok=0:Goto start
+
+© keygen condition
+1→digits
+expr(lst[dg])→dgt
+
+© Key generation
+pwdgen(tp,dgt)
+
+
+
+Lbl quit
+setFold(main)
+EndPrgm
