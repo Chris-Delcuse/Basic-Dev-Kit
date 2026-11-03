@@ -89,8 +89,7 @@ Else
   augment(pwddb;rwa)→pwddb
 EndIf
 
-DelVar pwd
-
 Lbl quit
+DelVar pwd
 setFold(main)
 EndPrgm
