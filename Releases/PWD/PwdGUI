@@ -12,7 +12,7 @@ Local dgt,digits, sv, nm
 Local idt, rwa
 
 0→digits:0→tp:0→dg:{}→lst
-0→sv:""→nm:""→idt:[]→rwa
+0→sv:""→nm:""→idt:{}→rwa
 {" Numeric"," Digicode"," Alpha-Num"," Sp-αNum"}→typ
 
 © Display Box & Menu
