@@ -1,4 +1,4 @@
-THEMATIC FOLDER
+**THEMATIC FOLDER**
 
 📈 FnCheck
 ----------
