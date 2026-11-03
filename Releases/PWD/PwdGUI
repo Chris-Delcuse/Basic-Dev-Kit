@@ -6,7 +6,7 @@ ClrErr
 setFold(pwd)
 
 Local tp,dg,lst,dgl,typ
-Local dgt,digits, sv, nm
+Local dgt,digits,sv,nm
 Local idt, rwa
 
 0→digits:0→tp:0→dg:{}→lst
@@ -43,7 +43,53 @@ expr(lst[dg])→dgt
 
 pwdgen(tp,dgt)
 
+Lbl dis
+{"Yes","No"}→lst
+Dialog
+Title "🔓 PwDGeN 🔓"
+Text "New Password :"
+Text ""
+DropDown "Save :",lst,sv
+Text ""
+Text ""
+EndDlog
+If ok=0:Goto start
 
+If sv=1 Then
+  If pwddb=pwddb Then
+    newMat(1,3)→pwddb
+    "Name"→pwddb[1,1]
+    "ID"→pwddb[1,2]
+    "PWD"→pwddb[1,3]
+  EndIf
+Else
+  Goto quit
+EndIf
+
+pwddb[1,1]→nm
+pwddb[1,2]→idt
+
+Dialog
+Title "🔓 PwDGeN 🔓"
+Request " Password Name",nm,1
+Text ""
+Request " Attached ID",idt
+Text ""
+Request " Customization",pwd
+EndDlog
+If ok=0:Goto dis
+
+[[nm,idt,pwd]]→rwa
+
+If isArchive(pwddb)=true Then
+  Unarchive pwddb
+  augment(pwddb;rwa)→pwddb
+  Archive pwddb
+Else
+  augment(pwddb;rwa)→pwddb
+EndIf
+
+DelVar pwd
 
 Lbl quit
 setFold(main)
