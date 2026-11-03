@@ -18,7 +18,7 @@ Lbl start
 Dialog
 Title "🔓 PwDGeN 🔓"
 Text ""
-Text "Choose a Password type :"
+Text "Choose Password type :"
 DropDown "PwD Type :",typ,tp
 Text ""
 EndDlog
