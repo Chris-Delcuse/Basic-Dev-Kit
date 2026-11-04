@@ -2,7 +2,6 @@
 
 THIS IS A DEV KIT, THIS GLOBAL FOLDER AIMS TO LOOK LIKE YOUR `\main`
 
-( There is no package ).
 
 📝 USAGE NOTE
 -------------
