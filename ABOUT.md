@@ -19,8 +19,6 @@ This is what we’re going to cover through this repository.
 
 ⛔️ Variables to exclude :
 -------------------------
-Pay close attention when you create variables !
-
 As well as your `Prgm` names,
 the use of,
 
