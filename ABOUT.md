@@ -17,7 +17,7 @@ Your Projects:
 
 This is what we’re going to cover through this repository.
 
-⛔️ Variables to exclude :
+⚠️ Variables to exclude :
 -------------------------
 As well as your `Prgm` names,
 the use of,
