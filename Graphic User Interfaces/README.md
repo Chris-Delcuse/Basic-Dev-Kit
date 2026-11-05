@@ -38,5 +38,3 @@
 - ( Password format compliant with current standards )
 
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic_DevKit/refs/heads/main/Graphic%20User%20Interfaces/pwdGUI_Prev.gif)
-
-Can run directly from the `\maîn` with PwDGeN.
