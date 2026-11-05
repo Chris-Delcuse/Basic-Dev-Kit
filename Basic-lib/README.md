@@ -19,15 +19,9 @@ To manage your multiple projects from the `\main`, use `CopyVar` at the beginnin
 ----------
 - Find out available locations to `Define` in all mode.
 
-📈 Fncheck_3D
--------------
-- Find out available locations to `Define` in graph mode 3D
-- ( For packaged Apps )
-
 📈 Fncheck_lite
 ---------------
 - Find out available locations to `Define` in graph mode `FUNCTION`
-- ( For packaged Apps )
 
 📺 InitScrn
 -----------
