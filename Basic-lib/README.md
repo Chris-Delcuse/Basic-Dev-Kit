@@ -58,7 +58,7 @@ To manage your multiple projects from the `\main`, use `CopyVar` at the beginnin
 
 🔐 PwDGeN ( No GUI )
 ---------
-- Powerful password generator.
+- Powerful password generator, random folder name...
 - Format : Numeric, Digicode, Apha-Numeric & Special α-Numeric.
 
 📺 ScnDtect
