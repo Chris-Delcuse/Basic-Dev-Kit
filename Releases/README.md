@@ -6,5 +6,5 @@ Built with Dev Kit.
 🔐 PWD
 -------
 - Type: UserApp
-- Description: FullApp with GUI + navigation, password customization & saving with automatic archiving ( reset protection )
+- Description: FullApp with GUI, Navigation, pwd customization, pwd saving & automatic archiving ( reset protection )
 - Content: PwdGUI, PwdGeN, About.
