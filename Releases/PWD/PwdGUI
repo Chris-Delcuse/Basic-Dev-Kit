@@ -89,6 +89,8 @@ Else
   augment(pwddb;rwa)→pwddb
 EndIf
 
+Text "Password saved ✓"
+
 Lbl quit
 DelVar pwd
 setFold(main)
