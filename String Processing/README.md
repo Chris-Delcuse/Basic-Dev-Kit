@@ -1,5 +1,7 @@
 **THEMATIC FOLDER**
 
+String Processing
+
 ⛓️ InStrng2
 ------------
 - Algorithm (Non-Mathematical)
