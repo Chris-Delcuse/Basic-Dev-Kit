@@ -1,6 +1,6 @@
 **THEMATIC FOLDER**
 
-Linrar Script
+Linear Script
 
 🎮 Dedication to the Game :
 ---------------------------
