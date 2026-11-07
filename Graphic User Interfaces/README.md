@@ -1,5 +1,7 @@
 **THEMATIC FOLDER**
 
+Graphic User Interface
+
 📺 LoadScrn
 -----------
 - A simple LoadScreen
