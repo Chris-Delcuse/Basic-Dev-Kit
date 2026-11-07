@@ -1,5 +1,7 @@
 **THEMATIC FOLDER**
 
+String Manipulation
+
 📈 FnCheck
 ----------
 - Find out available locations to `Define` in all mode.
