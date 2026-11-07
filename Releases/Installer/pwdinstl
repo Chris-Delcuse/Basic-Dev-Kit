@@ -1,6 +1,8 @@
 pwdinsl()
 Prgm
 
+NewFold pwd
+
 Define pwdgen(pwtp,pwdg)=prgm
 
 © Input format (Dec,Dec)
@@ -68,6 +70,101 @@ setMode("Base",bs)
 setMode("Exact/Approx",ea)
 EndPrgm
 
-Define 
+Define PwdGUI()=Prgm
+
+ClrErr
+
+setFold(pwd)
+
+Local tp,dg,lst,dgl,typ
+Local dgt,digits,sv,nm
+Local idt, rwa
+
+0→digits:0→tp:0→dg:{}→lst
+0→sv:""→nm:""→idt:{}→rwa
+{" Numeric"," Digicode"," Alpha-Num"," Sp-αNum"}→typ
+
+Lbl start
+Dialog
+Title "🔓 PwDGeN 🔓"
+Text "Choose Password type :"
+DropDown "PwD Type :",typ,tp
+Text ""
+EndDlog
+If ok=0:Goto quit
+
+If tp=1 Then
+{"  4 Digits","  6 Digits","  8 Digits"," 16 Digits"," 32 Digs"}→lst
+ElseIf tp=2 Then
+{"  5 Digits","  6 Digits"}→lst
+Else
+{"  8 Digits"," 10 Digits"," 12 Digits"," 14 Digits"," 16 Digits"}→lst
+EndIf
+
+Dialog
+Title "🔓 PwDGeN 🔓"
+Text "Choose Digits :"
+DropDown "Digits :",lst,dg
+Text ""
+EndDlog
+If ok=0:Goto start
+
+1→digits
+expr(lst[dg])→dgt
+
+pwdgen(tp,dgt)
+
+Lbl dis
+{"Yes","No"}→lst
+Dialog
+Title "🔓 PwDGeN 🔓"
+Text "New Password :"
+Text ""
+Text pwd
+Text ""
+DropDown "Save :",lst,sv
+EndDlog
+If ok=0:Goto start
+
+If sv=1 Then
+  If isVar(pwddb)=false Then
+    newMat(1,3)→pwddb
+    "Name"→pwddb[1,1]
+    "ID"→pwddb[1,2]
+    "PWD"→pwddb[1,3]
+  EndIf
+Else
+  Goto quit
+EndIf
+
+pwddb[1,1]→nm
+pwddb[1,2]→idt
+
+Dialog
+Title "🔓 PwDGeN 🔓"
+Request "▸ Password Name",nm,1
+Text ""
+Request "▸ Attached ID",idt
+Text ""
+Request "▸ Customization",pwd
+EndDlog
+If ok=0:Goto dis
+
+[[nm,idt,pwd]]→rwa
+
+If isArchive(pwddb)=true Then
+  Unarchive pwddb
+  augment(pwddb;rwa)→pwddb
+  Archive pwddb
+Else
+  augment(pwddb;rwa)→pwddb
+EndIf
+
+Text "Password saved ✓"
+
+Lbl quit
+DelVar pwd
+setFold(main)
+EndPrgm
 
 EndPrgm
