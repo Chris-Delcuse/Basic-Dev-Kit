@@ -7,7 +7,7 @@ Prgm
 
 ClrErr
 
-If isVra(smg)≠true Then
+If isVar(smg)=true Then
   setMode("Graph",smg)
   setMode("Axes",sga)
   setMode("Labels",sgl)
