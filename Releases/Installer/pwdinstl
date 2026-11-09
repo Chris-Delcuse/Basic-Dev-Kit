@@ -167,4 +167,6 @@ DelVar pwd
 setFold(main)
 EndPrgm
 
+setFold(main)
+
 EndPrgm
