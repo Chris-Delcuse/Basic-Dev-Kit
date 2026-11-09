@@ -8,15 +8,15 @@ Prgm
 ClrErr
 
 If isVar(smg)=true Then
-  setMode("Graph",smg)
-  setMode("Axes",sga)
-  setMode("Labels",sgl)
-  setMode("Grid",sgg)
-  setMode("Base",smb)
-  PlotsOn
-  DelVar smg,sga,sgl,sgg
-  DelVar wlst,smb
-  ClrDraw
+ setMode("Graph",smg)
+ setMode("Axes",sga)
+ setMode("Labels",sgl)
+ setMode("Grid",sgg)
+ setMode("Base",smb)
+ PlotsOn
+ DelVar smg,sga,sgl,sgg
+ DelVar wlst,smb
+ ClrDraw
 
 Else
  setMode ("Graph","FUNCTION")→smg
