@@ -7,9 +7,7 @@ Prgm
 
 ClrErr
 
-Try
-
- If smg≠0 Then
+If isVra(smg)≠true Then
   setMode("Graph",smg)
   setMode("Axes",sga)
   setMode("Labels",sgl)
@@ -19,7 +17,6 @@ Try
   DelVar smg,sga,sgl,sgg
   DelVar wlst,smb
   ClrDraw
- EndIf
 
 Else
  setMode ("Graph","FUNCTION")→smg
@@ -29,6 +26,6 @@ Else
  setMode("Base","DEC")→smb
  PlotsOff
  FnOff
-EndTry
+EndIf
 
 EndPrgm
