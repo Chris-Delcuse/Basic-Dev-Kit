@@ -15,37 +15,20 @@ Note: Locations respected with 391 functions, commands placed under character st
 
 🗄 Mode (All)
 -------------
-- `setMode` mergeable database
+- `setMode` Matrix
 - ( Compatible 89, Titanium, 92, 92+ & V200 )
 
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic_DevKit/refs/heads/main/Data%20Matrix%20List/setModeDB.gif)
 
-To be placed in the `\main` folder and merged according to your convenience.
+To be placed in the `\main` folder.
 
-<details>
-<summary>⌨️ Merging cmd : (Example)
-</summary>
+To create, use the data etidor first and convert into matrix.
 
-    Data▸Mat m1d,m1de    ( convert m1d in a new Mat m1de )
-
-    Data▸Mat m2d,m2de    ( convert m2d in a new Mat m2de )
-
-    Augment(m1de;m2de)→m0d3    Merging ⚠️ Augment Syntax need ; 
-
-    Mat▸Data m0d3,m0de   ( m0de will need manual cleaning. )
-
-    DelVar m1de,m2de,m0d3
+⌨️ cmd :
+     
+     Data▸Mat
 
 
-</details>
 
-<details>
-<summary>⌨️ Usage cmd : (Sentence Example)
-</summary>
-    
-    "setMode("Display Digits","FIX 0")"    (Sentence to write with your new var m0de)
-    
-    (m0de[1][1])&string(m0de[2][1])&","&string(m0de[3][1])&(m0de[4][1])    (phrasing)
 
-</details>
 
