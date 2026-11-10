@@ -2,11 +2,7 @@
 
 Data List Matrix
 
-📝 About Matrix :
-For character strings, you will need to use the data editor and then perform a conversion into a matrix (Data▸Mat)
-
 ----
-
 
 📒 C4tlg (List)
 --------
