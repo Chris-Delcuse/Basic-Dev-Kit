@@ -22,7 +22,7 @@ Note: Locations respected with 391 functions, commands placed under character st
 
 To be placed in the `\main` folder.
 
-To create, use the data etidor first and convert into matrix.
+To create this file, use the data editor first and convert into matrix.
 
 ⌨️ cmd :
      
