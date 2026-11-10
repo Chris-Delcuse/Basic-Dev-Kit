@@ -18,7 +18,8 @@ Note: Locations respected with 391 functions, commands placed under character st
 - `setMode` Matrix
 - ( Compatible 89, Titanium, 92, 92+ & V200 )
 
-![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic_DevKit/refs/heads/main/Data%20Matrix%20List/setModeDB.gif)
+![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/Basic-Dev-Kit/refs/heads/main/Data%20Matrix%20List/m0de_prev.png)
+
 
 To be placed in the `\main` folder.
 
