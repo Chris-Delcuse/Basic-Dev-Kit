@@ -1,0 +1,74 @@
+| "SetMode(" |              "Graph" |           "FUNCTION" | ")" |
+|         "" |             "Graph2" |         "PARAMETRIC" |  "" |
+|         "" |                   "" |              "POLAR" |  "" |
+|         "" |                   "" |           "SEQUENCE" |  "" |
+|         "" |                   "" |                 "3D" |  "" |
+|         "" |                   "" |     "DIFF EQUATIONS" |  "" |
+|         "" |     "Display Digits" |              "FIX 0" |  "" |
+|         "" |                   "" |              "FIX 1" |  "" |
+|         "" |                   "" |              "FIX 2" |  "" |
+|         "" |                   "" |              "FIX 3" |  "" |
+|         "" |                   "" |              "FIX 4" |  "" |
+|         "" |                   "" |              "FIX 5" |  "" |
+|         "" |                   "" |              "FIX 6" |  "" |
+|         "" |                   "" |              "FIX 7" |  "" |
+|         "" |                   "" |              "FIX 8" |  "" |
+|         "" |                   "" |              "FIX 9" |  "" |
+|         "" |                   "" |             "FIX 10" |  "" |
+|         "" |                   "" |             "FIX 11" |  "" |
+|         "" |                   "" |             "FIX 12" |  "" |
+|         "" |                   "" |              "FLOAT" |  "" |
+|         "" |                   "" |            "FLOAT 1" |  "" |
+|         "" |                   "" |            "FLOAT 2" |  "" |
+|         "" |                   "" |            "FLOAT 3" |  "" |
+|         "" |                   "" |            "FLOAT 4" |  "" |
+|         "" |                   "" |            "FLOAT 5" |  "" |
+|         "" |                   "" |            "FLOAT 6" |  "" |
+|         "" |                   "" |            "FLOAT 7" |  "" |
+|         "" |                   "" |            "FLOAT 8" |  "" |
+|         "" |                   "" |            "FLOAT 9" |  "" |
+|         "" |                   "" |           "FLOAT 10" |  "" |
+|         "" |                   "" |           "FLOAT 11" |  "" |
+|         "" |                   "" |           "FLOAT 12" |  "" |
+|         "" |              "Angle" |             "RADIAN" |  "" |
+|         "" |                   "" |             "DEGREE" |  "" |
+|         "" |                   "" |            "GRADIAN" |  "" |
+|         "" | "Exponential Format" |             "NORMAL" |  "" |
+|         "" |                   "" |         "SCIENTIFIC" |  "" |
+|         "" |                   "" |        "ENGINEERING" |  "" |
+|         "" |     "Complex Format" |               "REAL" |  "" |
+|         "" |                   "" |        "RECTANGULAR" |  "" |
+|         "" |                   "" |              "POLAR" |  "" |
+|         "" |      "Vector Format" |        "RECTANGULAR" |  "" |
+|         "" |                   "" |        "CYLINDRICAL" |  "" |
+|         "" |                   "" |          "SPHERICAL" |  "" |
+|         "" |       "Pretty Print" |                 "ON" |  "" |
+|         "" |                   "" |                "OFF" |  "" |
+|         "" |       "Split Screen" |               "FULL" |  "" |
+|         "" |                   "" |         "TOP–BOTTOM" |  "" |
+|         "" |                   "" |         "LEFT–RIGHT" |  "" |
+|         "" |        "Split 1 App" |               "Home" |  "" |
+|         "" |        "Split 2 App" |          "Y= Editor" |  "" |
+|         "" |                   "" |      "Window Editor" |  "" |
+|         "" |                   "" |              "Graph" |  "" |
+|         "" |                   "" |              "Table" |  "" |
+|         "" |                   "" | "Data/Matrix Editor" |  "" |
+|         "" |                   "" |     "Program Editor" |  "" |
+|         "" |                   "" |        "Text Editor" |  "" |
+|         "" |                   "" |     "Numeric Solver" |  "" |
+|         "" |   "Number of Graphs" |                  "1" |  "" |
+|         "" |                   "" |                  "2" |  "" |
+|         "" | "Split Screen Ratio" |                "1:1" |  "" |
+|         "" |                   "" |                "1:2" |  "" |
+|         "" |                   "" |                "2:1" |  "" |
+|         "" |       "Exact/Approx" |               "AUTO" |  "" |
+|         "" |                   "" |              "EXACT" |  "" |
+|         "" |                   "" |        "APPROXIMATE" |  "" |
+|         "" |               "Base" |                "DEC" |  "" |
+|         "" |                   "" |                "HEX" |  "" |
+|         "" |                   "" |                "BIN" |  "" |
+|         "" |        "Unit System" |                 "SI" |  "" |
+|         "" |                   "" |             "ENG/US" |  "" |
+|         "" |                   "" |             "CUSTOM" |  "" |
+|         "" |       "Apps Desktop" |                 "ON" |  "" |
+|         "" |                   "" |                "OFF" |  "" |
