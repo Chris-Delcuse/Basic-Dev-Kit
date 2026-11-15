@@ -167,6 +167,7 @@ DelVar pwd
 setFold(main)
 EndPrgm
 
+Text "Sucessfully Installed ✓"
 setFold(main)
 
 EndPrgm
