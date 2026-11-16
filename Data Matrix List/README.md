@@ -27,9 +27,4 @@ To create this file, use the data editor first and convert into matrix.
 
 ⌨️ cmd :
      
-     Data▸Mat
-
-
-
-
-
+     Data▸Mat varname, m0de
