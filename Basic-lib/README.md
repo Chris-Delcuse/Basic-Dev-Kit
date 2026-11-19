@@ -50,6 +50,7 @@ To manage your multiple projects from the `\main`, use `CopyVar` at the beginnin
 🧹 MainClnr
 ------------
 - Initializes essential variables needed for formal calculation.
+- ( Safer than NewProb )
 
 🗄 Mode (All)
 -------------
